@@ -1,0 +1,16 @@
+{
+"data":
+[
+{
+"AppointmentId": "1234",
+“PatientId” : "232",
+“PatientName” : "Sarita",
+“DoctorId” : "7766",
+“DoctorName” : "steven",
+“AppointmentDate” : "11/09/2022",
+“AppointmentDuration” : "30",
+“AppointmentStatus” : "Confirmed",
+“AppointmentType” : "Virtual"
+}
+]
+}
