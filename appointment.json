@@ -11,6 +11,18 @@
 “AppointmentDuration” : "30",
 “AppointmentStatus” : "Confirmed",
 “AppointmentType” : "Virtual"
-}
+},
+  
+   {
+ "AppointmentId": "1111",
+“PatientId” : "222",
+“PatientName” : "Sanket",
+“DoctorId” : "7706",
+“DoctorName” : "sombir",
+“AppointmentDate” : "11/09/2022",
+“AppointmentDuration” : "30",
+“AppointmentStatus” : "Confirmed",
+“AppointmentType” : "Virtual"
+        }
 ]
 }
