@@ -62,8 +62,8 @@
         },
        {
 "AppointmentId": “ID_1555",
-“PatientId” : “Amrish Puri",
-“PatientName” : "Sanket",
+“PatientId” : “PID_222",
+“PatientName” : "Amrish Puri",
 “DoctorId” : "DID_7766",
 “DoctorName” : “Amit Shah”,
 “AppointmentDate” : "11/14/2022",
